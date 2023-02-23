@@ -1,6 +1,6 @@
-name: Actions Ecosystem Action Get Merged Pull Request
+name: Get Merged Pull Request Info
 description: Get the pull request merged with base branch.
-author: Actions Ecosystem
+author: Pablo Marti Gamboa
 inputs:
   github_token:
     description: A GitHub token.
@@ -17,5 +17,5 @@ outputs:
   assignees:
     description: The list of assignees for the pull request. Separated with line breaks if there're multiple assignees.
 runs:
-  using: node12
+  using: node16
   main: dist/index.js
