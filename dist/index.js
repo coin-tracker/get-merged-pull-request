@@ -1272,6 +1272,7 @@ function run() {
             core.setOutput('title', pull.title);
             core.setOutput('body', pull.body);
             core.setOutput('number', pull.number);
+            core.setOutput('html_url', pull.html_url);
             core.setOutput('labels', (_a = pull.labels) === null || _a === void 0 ? void 0 : _a.join('\n'));
             core.setOutput('assignees', (_b = pull.assignees) === null || _b === void 0 ? void 0 : _b.join('\n'));
         }
@@ -1300,6 +1301,7 @@ function getMergedPullRequest(githubToken, owner, repo, sha) {
             title: pull.title,
             body: pull.body,
             number: pull.number,
+            html_url: pull.html_url,
             labels: pull.labels.map(l => l.name),
             assignees: pull.assignees.map(a => a.login)
         };

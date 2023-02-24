@@ -16,6 +16,8 @@ outputs:
     description: The list of labels for the pull request. Separated with line breaks if there're multiple labels.
   assignees:
     description: The list of assignees for the pull request. Separated with line breaks if there're multiple assignees.
+  html_url:
+    description: The URL of the pull request.
 runs:
   using: node16
   main: dist/index.js
