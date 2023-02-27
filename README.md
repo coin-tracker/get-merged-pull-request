@@ -47,11 +47,11 @@ Action Get Merged Pull Request is released under the [Apache License 2.0](./LICE
 
 <!-- badge links -->
 
-[actions-workflow-test]: https://github.com/actions-ecosystem/action-get-merged-pull-request/actions?query=workflow%3ATest
-[actions-workflow-test-badge]: https://img.shields.io/github/workflow/status/actions-ecosystem/action-get-merged-pull-request/Test?label=Test&style=for-the-badge&logo=github
+[actions-workflow-test]: https://github.com/coin-tracker/get-merged-pull-request/actions?query=workflow%3ATest
+[actions-workflow-test-badge]: https://img.shields.io/github/workflow/status/coin-tracker/get-merged-pull-request/Test?label=Test&style=for-the-badge&logo=github
 
-[release]: https://github.com/actions-ecosystem/action-get-merged-pull-request/releases
-[release-badge]: https://img.shields.io/github/v/release/actions-ecosystem/action-get-merged-pull-request?style=for-the-badge&logo=github
+[release]: https://github.com/coin-tracker/get-merged-pull-request/releases
+[release-badge]: https://img.shields.io/github/v/release/coin-tracker/get-merged-pull-request?style=for-the-badge&logo=github
 
 [license]: LICENSE
-[license-badge]: https://img.shields.io/github/license/actions-ecosystem/action-get-merged-pull-request?style=for-the-badge
+[license-badge]: https://img.shields.io/github/license/coin-tracker/get-merged-pull-request?style=for-the-badge
