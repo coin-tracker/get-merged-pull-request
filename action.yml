@@ -1,6 +1,6 @@
 name: Get Merged Pull Request Info
 description: Get the pull request merged with base branch.
-author: Pablo Marti Gamboa
+author: CoinTracker
 inputs:
   github_token:
     description: A GitHub token.
