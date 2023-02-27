@@ -1,4 +1,4 @@
-name: Get Merged Pull Request Info
+name: Get Merged Pull Request Information
 description: Get the pull request merged with base branch.
 author: CoinTracker
 inputs:
