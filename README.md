@@ -1,4 +1,4 @@
-# Action Get Merged Pull Request
+yes# Action Get Merged Pull Request
 
 [![actions-workflow-test][actions-workflow-test-badge]][actions-workflow-test]
 [![release][release-badge]][release]
